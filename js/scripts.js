@@ -34,6 +34,24 @@ function numberOfOccurrencesInText(word, text) {
   return wordCount;
 }
 
+// function mostCommonWords (text) {
+//   const wordArray = text.split(" ");
+//   let sortedArray = wordArray.sort();
+//   let frequencyCount = 0;
+//   word = wordArray[0]
+//   const countedWords = []
+
+//   sortedArray.forEach(function (element) {
+//     if (element === word) {
+//       frequencyCount++;
+//     } else {
+//      countedWords.push(word + " " + frequencyCount)
+//      word = element 
+//     }
+//   })
+//   countedWords.push(word + " " + frequencyCount)
+// }
+
 // UI Logic
 
 function boldPassage(word, text) {

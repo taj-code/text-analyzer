@@ -1,3 +1,33 @@
+# _Text Analyzer_
+
+#### _This website._
+
+#### By _**Tajo Fisher**_
+
+## Technology Used
+
+* HTML 
+* CSS
+* JS
+
+## Description
+
+* A website containing information on  takes users input such as a sentance and will be able to detect how many words and specifc words as well.
+
+## Known Bugs 
+
+* _No Known issues_ 
+
+## License
+
+* [MIT](link)
+* copyright(c) 2021
+* [Click here](link) 
+
+## Contact Information 
+
+Tajo Fisher _tajofisher4@gmail.com_
+
 ```javascript
 Describe: wordCounter()
 
